@@ -1303,27 +1303,27 @@
   
   {
   "word": "snow-covered",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "frozen",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "striking",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "solitary",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
   "word": "peculiar",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
@@ -1333,112 +1333,132 @@
   
   {
   "word": "warm",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "eerie",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "abnormal",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "supernatural",
-  "type": "adj"
+  "type": "loc-adj"
   },
 
   {
   "word": "holy",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
   "word": "sacred",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "haunted",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "dark",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "hot",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "serene",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "placid",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
   "word": "cold",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "magical",
-  "type": "adj"
+  "type": "sub-adj"
   },
+
+  {
+    "word": "magical",
+    "type": "loc-adj"
+    },
   
   {
   "word": "bright",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "deserted",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "quiet",
-  "type": "adj"
+  "type": "loc-adj"
   },
+
+  {
+    "word": "quiet",
+    "type": "sub-adj"
+    },
   
   {
   "word": "large",
-  "type": "adj"
+  "type": "loc-adj"
   },
+
+  {
+    "word": "large",
+    "type": "sub-adj"
+    },
   
   {
   "word": "tiny",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "small",
-  "type": "adj"
+  "type": "loc-adj"
   },
-  
+
+  {
+    "word": "small",
+    "type": "sub-adj"
+    },
+    
   {
   "word": "elegant",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
   "word": "delightful",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "dreary",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
@@ -1448,63 +1468,73 @@
   
   {
   "word": "delightful",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
   "word": "beautiful",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "creepy",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "unremarkable",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "nondescript",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "unexceptional",
-  "type": "adj"
+  "type": "sub-adj"
   },
   
   {
   "word": "unsettling",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "mysterious",
-  "type": "adj"
+  "type": "loc-adj"
   },
-  
+
+  {
+    "word": "mysterious",
+    "type": "sub-adj"
+    },
+    
   {
   "word": "ghostly",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "dangerous",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "peaceful",
-  "type": "adj"
+  "type": "loc-adj"
   },
   
   {
   "word": "evil",
-  "type": "adj"
+  "type": "loc-adj"
   },
+
+  {
+    "word": "evil",
+    "type": "sub-adj"
+    },
   
   {
   "word": "strong",
