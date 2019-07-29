@@ -34,6 +34,11 @@ app.get('/words', function handleGetDrinks(req,res) {
         word.type.includes(req.query.type)
       )
     }
+    if (req.query.genre) {
+      response = response.filter(word =>
+        word.genre.includes(req.query.genre)
+      )
+    }
     res.json(response)
   })
   
