@@ -98,7 +98,8 @@
   
   {
   "word": "extraterrestrial",
-  "type": "subject"
+  "type": "subject",
+  "genre": "scifi"
   },
   
   {
@@ -108,7 +109,8 @@
   
   {
   "word": "alien",
-  "type": "subject"
+  "type": "subject",
+  "genre": "scifi"
   },
   
   {
@@ -123,7 +125,8 @@
   
   {
   "word": "outlaw",
-  "type": "subject"
+  "type": "subject",
+  "genre": "western"
   },
   
   {
@@ -138,7 +141,8 @@
   
   {
   "word": "oracle",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -163,12 +167,14 @@
   
   {
   "word": "murderer",
-  "type": "subject"
+  "type": "subject",
+  "genre": "horror"
   },
   
   {
   "word": "healer",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -203,7 +209,8 @@
   
   {
   "word": "bandit",
-  "type": "subject"
+  "type": "subject",
+  "genre": "western"
   },
   
   {
@@ -213,12 +220,14 @@
   
   {
   "word": "drifter",
-  "type": "subject"
+  "type": "subject",
+  "genre": "western"
   },
   
   {
   "word": "midwife",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -283,17 +292,20 @@
   
   {
   "word": "hermit",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
   "word": "recluse",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
   "word": "nomad",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -308,8 +320,15 @@
   
   {
   "word": "captive",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
+
+  {
+    "word": "nomadic",
+    "type": "sub-adj",
+    "genre": "fantasy"
+   },
   
   {
   "word": "artist",
@@ -338,7 +357,8 @@
   
   {
   "word": "drifter",
-  "type": "subject"
+  "type": "subject",
+  "genre": "western"
   },
   
   {
@@ -383,12 +403,14 @@
   
   {
   "word": "innkeeper",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
   "word": "wizard",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -398,17 +420,21 @@
   
   {
   "word": "giant",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
   "word": "spirit",
-  "type": "subject"
+  "type": "subject",
+  "genre": "horror"
+
   },
   
   {
   "word": "ghost",
-  "type": "subject"
+  "type": "subject",
+  "genre": "horror"
   },
   
   {
@@ -423,7 +449,8 @@
   
   {
   "word": "witch",
-  "type": "subject"
+  "type": "subject",
+  "genre": "horror"
   },
   
   {
@@ -518,7 +545,8 @@
   
   {
   "word": "ranger",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -533,7 +561,8 @@
   
   {
   "word": "thief",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
   
   {
@@ -593,7 +622,8 @@
   
   {
   "word": "android",
-  "type": "subject"
+  "type": "subject",
+  "genre": "scifi"
   },
   
   {
@@ -608,12 +638,14 @@
   
   {
   "word": "robot",
-  "type": "subject"
+  "type": "subject",
+  "genre": "scifi"
   },
   
   {
   "word": "jester",
-  "type": "subject"
+  "type": "subject",
+  "genre": "fantasy"
   },
 
   {
@@ -1338,7 +1370,8 @@
   
   {
   "word": "eerie",
-  "type": "loc-adj"
+  "type": "loc-adj",
+  "genre": "horror" 
   },
   
   {
@@ -1363,12 +1396,14 @@
   
   {
   "word": "haunted",
-  "type": "loc-adj"
+  "type": "loc-adj",
+  "genre": "horror"
   },
   
   {
   "word": "dark",
-  "type": "loc-adj"
+  "type": "loc-adj",
+  "genre": "horror"
   },
   
   {
@@ -1408,7 +1443,8 @@
   
   {
   "word": "deserted",
-  "type": "loc-adj"
+  "type": "loc-adj",
+  "genre": "horror"
   },
   
   {
@@ -1478,7 +1514,8 @@
   
   {
   "word": "creepy",
-  "type": "loc-adj"
+  "type": "loc-adj",
+  "genre": "horror"
   },
   
   {
@@ -2020,8 +2057,605 @@
   {
   "word": "crowded",
   "type": "loc-adj"
-  }
+  },
 
+  {
+    "word": "martian",
+    "type": "subject",
+    "genre": "scifi"
+  },
+    
+  {
+    "word": "astronaut",
+    "type": "subject",
+    "genre": "scifi"
+  },
+    
+  {
+    "word": "dragon",
+    "type": "subject",
+    "genre": "fantasy"
+  },
+    
+  {
+    "word": "gnome",
+    "type": "subject",
+    "genre": "fantasy"
+   },
+    
+    {
+    "word": "elf",
+    "type": "subject",
+    "genre": "fantasy"
+    },
+    
+    {
+    "word": "fairy",
+    "type": "subject",
+    "genre": "fantasy"
+    },
+    
+    {
+    "word": "axeman",
+    "type": "subject",
+    "genre": "horror"
+    },
+    
+    {
+    "word": "vampire",
+    "type": "subject",
+    "genre": "horror"
+    },
+    
+    {
+    "word": "zombie",
+    "type": "subject",
+    "genre": "horror"
+    },
+    
+    {
+    "word": "clown",
+    "type": "subject",
+    "genre": "horror"
+    },
+    
+     {
+        "word": "graveyard",
+        "type": "location",
+        "genre": "horror"
+      },
+    
+     {
+        "word": "cemetery",
+        "type": "location",
+        "genre": "horror"
+      },
+    
+     {
+        "word": "crypt",
+        "type": "location",
+        "genre": "horror"
+     },
+    
+     {
+        "word": "spaceship",
+        "type": "location",
+        "genre": "scifi"
+       },
+    
+     {
+        "word": "colony",
+        "type": "location",
+        "genre": "scifi"
+       },
+    
+     {
+        "word": "castle",
+        "type": "location",
+        "genre": "fantasy"
+       },
+    
+     {
+        "word": "undead",
+        "type": "sub-adj",
+        "genre": "horror"
+      },
+    
+     {
+        "word": "killer",
+        "type": "sub-adj",
+        "genre": "horror"
+      },
+    
+     {
+        "word": "malevolent",
+        "type": "sub-adj",
+        "genre": "horror"
+      },
+    
+    
+    
+     {
+        "word": "bloodthirsty",
+        "type": "sub-adj",
+        "genre": "horror"
+      },
+    
+     {
+        "word": "crazed",
+        "type": "sub-adj",
+        "genre": "horror"
+       },
+    
+     {
+        "word": "psychic",
+        "type": "sub-adj",
+        "genre": "scifi"
+       },
+    
+     {
+        "word": "chrome",
+        "type": "loc-adj",
+        "genre": "scifi"
+       },
+    
+     {
+        "word": "haunted",
+        "type": "loc-adj",
+        "genre": "horror"
+       },
+    
+     {
+        "word": "bloody",
+        "type": "loc-adj",
+        "genre": "horror"
+      },
+    
+     {
+        "word": "magical",
+        "type": "adj",
+        "genre": "fantasy"
+    },
+
+    {
+      "word": "cowboy",
+      "type": "subject",
+      "genre": "western"
+      },
+      
+      {
+      "word": "sheriff",
+      "type": "subject",
+      "genre": "western"
+      },
+      
+      {
+      "word": "saloon",
+      "type": "location",
+      "genre": "western"
+      },
+{
+"word": "martian",
+"type": "subject",
+"genre": "scifi"
+},
+
+{
+"word": "astronaut",
+"type": "subject",
+"genre": "scifi"
+},
+
+{
+  "word": "outlaw",
+  "type": "subject",
+"genre": "western"
+  },
+
+{
+"word": "cowboy",
+"type": "subject",
+"genre": "western"
+},
+
+{
+"word": "sheriff",
+"type": "subject",
+"genre": "western"
+},
+
+{
+"word": "saloon",
+"type": "location",
+"genre": "western"
+},
+
+
+{
+  "word": "extraterrestrial",
+  "type": "subject",
+  "genre": "scifi"
+  },
+
+{
+  "word": "alien",
+  "type": "subject",
+  "genre": "scifi"
+  },
+
+{
+  "word": "murderer",
+  "type": "subject",
+  "genre": "horror"
+  },
+ 
+
+{
+"word": "dragon",
+"type": "subject",
+"genre": "fantasy"
+},
+
+{
+  "word": "wizard",
+  "type": "subject",
+  "genre": "fantasy"
+  },
+
+{
+  "word": "innkeeper",
+  "type": "subject",
+ "genre": "fantasy"
+  },
+
+
+
+
+{
+  "word": "giant",
+  "type": "subject",
+"genre": "fantasy"
+  },
+ 
+
+{
+  "word": "healer",
+  "type": "subject",
+"genre": "fantasy"
+  },
+
+{
+  "word": "oracle",
+  "type": "subject",
+"genre": "fantasy"
+  },
+
+{
+  "word": "captive",
+  "type": "subject",
+  "genre": "fantasy"
+  },
+
+{
+  "word": "drifter",
+  "type": "subject",
+  "genre": "western"
+  },
+
+{
+  "word": "midwife",
+  "type": "subject",
+  "genre": "fantasy"
+  },
+
+{
+  "word": "hermit",
+  "type": "subject",
+ "genre": "fantasy"
+  },
+
+ {
+  "word": "recluse",
+  "type": "subject",
+  "genre": "fantasy"
+  },
+  
+  {
+  "word": "nomad",
+  "type": "subject",
+  "genre": "fantasy"
+  },
+ 
+
+{
+  "word": "bandit",
+  "type": "subject",
+  "genre": "western"
+  },
+
+{
+"word": "gnome",
+"type": "subject",
+"genre": "fantasy"
+},
+
+{
+"word": "elf",
+"type": "subject",
+"genre": "fantasy"
+},
+
+{
+"word": "fairy",
+"type": "subject",
+"genre": "fantasy"
+},
+
+{
+  "word": "ranger",
+  "type": "subject",
+"genre": "fantasy"
+  },
+
+{
+  "word": "thief",
+  "type": "subject",
+  "genre": "fantasy"
+  },
+
+{
+  "word": "jester",
+  "type": "subject",
+ "genre": "fantasy"
+  },
+
+
+{
+  "word": "android",
+  "type": "subject",
+ "genre": "scifi"
+  },
+ 
+ {
+  "word": "robot",
+  "type": "subject",
+  "genre": "scifi"
+  },
+ 
+{
+  "word": "tracker",
+  "type": "subject",
+"genre": "fantasy"
+  },
+
+{
+  "word": "hunter",
+  "type": "subject",
+"genre": "fantasy"
+  },
+ 
+
+{
+"word": "axeman",
+"type": "subject",
+"genre": "horror"
+},
+
+ {
+  "word": "spirit",
+  "type": "subject",
+  "genre": "horror"
+  },
+  
+  {
+  "word": "ghost",
+  "type": "subject",
+"genre": "horror"
+  },
+
+{
+  "word": "mysterious",
+  "type": "loc-adj",
+"genre": "horror"
+  },
+
+{
+  "word": "mysterious",
+  "type": "sub-adj",
+"genre": "horror"
+  },
+
+{
+  "word": "creepy",
+  "type": "loc-adj",
+"genre": "horror"
+  },
+
+{
+  "word": "sacred",
+  "type": "loc-adj",
+"Genre": "fantasy"
+  },
+
+{
+  "word": "eerie",
+  "type": "loc-adj",
+  "genre": "horror" 
+  },
+ 
+{
+  "word": "dark",
+  "type": "loc-adj",
+  "genre": "horror"
+  },
+ 
+{
+  "word": "deserted",
+  "type": "loc-adj",
+"genre": "horror"
+  },
+
+{
+  "word": "witch",
+  "type": "subject",
+"genre": "horror"
+  },
+  
+
+{
+"word": "vampire",
+"type": "subject",
+"genre": "horror"
+},
+
+{
+"word": "zombie",
+"type": "subject",
+"genre": "horror"
+},
+
+{
+"word": "clown",
+"type": "subject",
+"genre": "horror"
+},
+
+ {
+    "word": "graveyard",
+    "type": "location",
+    "genre": "horror"
+  },
+
+ {
+    "word": "cemetery",
+    "type": "location",
+    "genre": "horror"
+  },
+
+ {
+    "word": "crypt",
+    "type": "location",
+    "genre": "horror"
+ },
+
+ {
+    "word": "spaceship",
+    "type": "location",
+    "genre": "scifi"
+   },
+
+ {
+    "word": "colony",
+    "type": "location",
+    "genre": "scifi"
+   },
+
+ {
+    "word": "castle",
+    "type": "location",
+    "genre": "fantasy"
+   },
+
+ {
+    "word": "undead",
+    "type": "sub-adj",
+    "genre": "horror"
+  },
+
+ {
+    "word": "killer",
+    "type": "sub-adj",
+    "genre": "horror"
+  },
+
+ {
+    "word": "malevolent",
+    "type": "sub-adj",
+    "genre": "horror"
+  },
+
+ {
+    "word": "bloodthirsty",
+    "type": "sub-adj",
+    "genre": "horror"
+  },
+
+ {
+    "word": "crazed",
+    "type": "sub-adj",
+    "genre": "horror"
+   },
+
+ {
+    "word": "psychic",
+    "type": "sub-adj",
+    "genre": "scifi"
+   },
+
+ {
+    "word": "chrome",
+    "type": "loc-adj",
+    "genre": "scifi"
+   },
+
+ {
+    "word": "haunted",
+    "type": "loc-adj",
+    "genre": "horror"
+   },
+
+ {
+    "word": "bloody",
+    "type": "loc-adj",
+    "genre": "horror"
+   },
+
+ {
+    "word": "nomadic",
+    "type": "sub-adj",
+    "genre": "fantasy"
+   },
+
+ {
+    "word": "captive",
+    "type": "sub-adj",
+    "genre": "fantasy"
+   },
+
+ {
+    "word": "magical",
+    "type": "adj",
+    "genre": "fantasy"
+   },
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
 ]
 
 }
