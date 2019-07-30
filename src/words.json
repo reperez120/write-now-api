@@ -3777,7 +3777,753 @@
             "word": "passionate",
             "type": "sub-adj",
             "genre": "scifi"
+          },
+
+          {
+            "word": "good-natured",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "good-natured",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "good-natured",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "good-natured",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+       
+          {
+            "word": "sweet-tempered",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "sweet-tempered",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "amiable",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "amiable",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "amiable",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "outraged",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "outraged",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "charming",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "charming",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+             
+          {
+            "word": "refined",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "refined",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "refined",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+          
+          {
+            "word": "unrefined",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "unrefined",
+            "type": "sub-adj",
+            "genre": "westen"
+          },
+          
+          {
+            "word": "anxious",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "anxious",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "anxious",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "anxious",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "hunted",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "hunted",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+          
+          {
+            "word": "hunted",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "hunted",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+          
+          {
+            "word": "noble",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "noble",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "noble",
+            "type": "sub-adj",
+            "genre": "fanasty"
+          },
+
+          {
+            "word": "noble",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+            
+          {
+            "word": "genteel",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "genteel",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "genteel",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "genteel",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "genteel",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+        
+          {
+            "word": "boorish",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "boorish",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "boorish",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "boorish",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "foolish",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "foolish",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "foolish",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "foolish",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "quick-witted",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "quick-witted",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "quick-witted",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "quick-witted",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "shrewd",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "shrewd",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "shrewd",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "shrewd",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "oafish",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "oafish",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "oafish",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "broken-hearted",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "broken-hearted",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "broken-hearted",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+          
+          {
+            "word": "affable",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "affable",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+          
+          {
+            "word": "disillusioned",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "disillusioned",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "disillusioned",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "disaffected",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "disaffected",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+            
+          {
+            "word": "hot-headed",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "hot-headed",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "reserved",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "reserved",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "reserved",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "reserved",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "reticent",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+            
+          {
+            "word": "tenacious",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "tenacious",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "tenacious",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "tenacious",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+           { 
+            "word": "resourceful",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          { 
+            "word": "resourceful",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          { 
+            "word": "resourceful",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          { 
+            "word": "resourceful",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "diffident",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "diffident",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "diffident",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+            
+          {
+            "word": "bold",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "bold",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "bold",
+            "type": "sub-adj",
+            "genre": "bold"
+          },
+
+          {
+            "word": "lovesick",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "lovesick",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "lovesick",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+            
+          {
+            "word": "kind-hearted",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "kind-hearted",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "kind-hearted",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+          
+          {
+            "word": "gentle",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "gentle",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "gentle",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+          
+          {
+            "word": "delicate",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "delicate",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "smiling",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "smiling",
+            "type": "sub-adj",
+            "genre": "horror"
+          },
+
+          {
+            "word": "smiling",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "smiling",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "smiling",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+            
+          {
+            "word": "desperate",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "desperate",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "desperate",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "desperate",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+          
+          {
+            "word": "delirious",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "delirious",
+            "type": "sub-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "delirious",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "delirious",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+            
+          {
+            "word": "jocular",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+            
+          {
+            "word": "witty",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "witty",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+
+          {
+            "word": "witty",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+            
+          {
+            "word": "jovial",
+            "type": "sub-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "jovial",
+            "type": "sub-adj",
+            "genre": "scifi"
+          },
+
+          {
+            "word": "jovial",
+            "type": "sub-adj",
+            "genre": "western"
+          },
+          
+        {
+          "word": "dim",
+          "type": "loc-adj",
+          "genre": "horror"
+          },
+          
+          {
+          "word": "misty",
+          "type": "loc-adj",
+          "genre": "lit"
+          },
+
+          {
+            "word": "misty",
+            "type": "loc-adj",
+            "genre": "horror"
+          },
+
+          {
+            "word": "misty",
+            "type": "loc-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "humid",
+            "type": "loc-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "humid",
+            "type": "loc-adj",
+            "genre": "fantasy"
+          },
+
+          {
+            "word": "damp",
+            "type": "loc-adj",
+            "genre": "lit"
+          },
+
+          {
+            "word": "crowded",
+            "type": "loc-adj",
+            "genre": "lit"
           }
+    
+    
 ]
 
 }
