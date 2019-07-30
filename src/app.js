@@ -21,24 +21,27 @@ app.get('/', (req, res) => {
     res.send('Welcome to the Write Now API!');
 });
 
-app.get('/words', function handleGetDrinks(req,res) {
+app.get('/words', function handleGetWords(req,res) {
     let response = WORDS.words;
   
   if (req.query.word) {
       response = response.filter(word =>
-        word.word.toLowerCase().includes(req.query.name.toLowerCase())
+        word.word.toLowerCase().includes(req.query.word.toLowerCase())
       )
     }
+
     if (req.query.type) {
       response = response.filter(word =>
         word.type.includes(req.query.type)
       )
     }
+
     if (req.query.genre) {
       response = response.filter(word =>
         word.genre.includes(req.query.genre)
       )
     }
+
     res.json(response)
   })
   
