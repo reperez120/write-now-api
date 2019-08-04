@@ -156,7 +156,139 @@
     "type": "subject",
     "genre": "scifi"
   },
-  
+
+  {
+    "word": "clone",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "pilot",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "extraterrestrial",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "colonist",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "engineer",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "fugitive",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "settler",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "chemist",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "physicist",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "creature",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "being",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "life form",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "organism",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "prisoner",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "technician",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "inspector",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "crew member",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "invader",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "cyborg",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "trooper",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "mainframe",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "navigator",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
   {
     "word": "orphan",
     "type": "subject",
@@ -473,6 +605,245 @@
   },
 
   {
+    "word": "telepathic",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "clairvoyant",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "chrome",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "glowing",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "armored",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "captured",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "imprisioned",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "incarcerated",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "captive",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "armed",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "civilian",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "skilled",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "specialist",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "dissident",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "insurgent",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "insurrectionist",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "rebel",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "revolutionary",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "radioactive",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "dissenting",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "rebel",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "revolutionary",
+    "type": "sub-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "ambassador",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "emissary",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "envoy",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "diplomat",
+    "type": "subject",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "metal",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "radioactive",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "chrome",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "toxic",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "glowing",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "twinkling",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "flickering",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+  {
+    "word": "radiant",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "incandescent",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "luminescent",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "blinking",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "engineered",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "synthetic",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "manufactured",
+    "type": "loc-adj",
+    "genre": "scifi"
+  },
+
+  {
     "word": "chrome",
     "type": "loc-adj",
     "genre": "scifi"
@@ -508,6 +879,138 @@
     "genre": "scifi"
   },
       
+  {
+    "word": "colony",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "platform",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "colony",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "hallway",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "research center",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "vortex",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "corridor",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "chambers",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "quarters",
+    "type": "location",
+    "genre": "scifi"
+  },
+  
+  {
+    "word": "vessel",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "compartment",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "dormitory",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "cubicle",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "unit",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "cell",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "examination room",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "enclosure",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "doorway",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "passage",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "greenhouse",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "wormhole",
+    "type": "location",
+    "genre": "scifi"
+  },
+
+  {
+    "word": "portal",
+    "type": "location",
+    "genre": "scifi"
+  },
+
   {
     "word": "colony",
     "type": "location",
@@ -1157,7 +1660,7 @@
   },
 
   {
-    "word": "fantasy",
+    "word": "phantom",
     "type": "subject",
     "genre": "horror"
   },
