@@ -1,5033 +1,5035 @@
 {
-"words": [
-
-  {
-    "word": "man",
-    "type": "subject",
-    "genre": "lit"
-  },
+  "words": [
   
-  {
-    "word": "woman",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "child",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "boy",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "girl",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "figure",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "figure",
-    "type": "subject",
-    "genre": "scifi"
-  },
-  
-  {
-    "word": "shape",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "shape",
-    "type": "subject",
-    "genre": "horror"
-  },
-  
-  {
-    "word": "entity",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "entity",
-    "type": "subject",
-    "genre": "horror"
-  },
+    {
+      "word": "man",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "form",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "form",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "computer",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "nomadic",
-    "type": "sub-adj",
-    "genre": "fantasy"
-  },
-  
-  {
-    "word": "cat",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "dog",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "guard",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "wolf",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "sparrow",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "hawk",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "rat",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "doe",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "buck",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "butler",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "extraterrestrial",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "clone",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "pilot",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "extraterrestrial",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "colonist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "engineer",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "fugitive",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "settler",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "chemist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "physicist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "creature",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "being",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "life form",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "organism",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "prisoner",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "technician",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "inspector",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "crew member",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "invader",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "cyborg",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "trooper",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "mainframe",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "navigator",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "orphan",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "alien",
-    "type": "subject",
-    "genre": "scifi"
-  },
-  
-  {
-    "word": "runaway",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "stranger",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "stranger",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-  {
-    "word": "outlaw",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-  {
-    "word": "doctor",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "professor",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "oracle",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "oracle",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "rogue",
-    "type": "subject",
-    "genre": "western"
-  },
-   
-  {
-    "word": "explorer",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "explorer",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-  {
-    "word": "adventurer",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "adventurer",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "wagon",
-    "type": "location",
-    "genre": "western"
-  },
-
-
-  {
-    "word": "giant",
-    "type": "subject",
-    "genre": "fantasy"
-  },
+    {
+      "word": "woman",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "clown",
-    "type": "subject",
-    "genre": "horror"
-  },
+    {
+      "word": "child",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "graveyard",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-  "word": "cemetery",
-  "type": "location",
-  "genre": "horror"
-  },
-
-  {
-  "word": "roofer",
-  "type": "subject",
-  "genre": "lit"
-  },
-
-  {
-  "word": "saloon",
-  "type": "location",
-  "genre": "western"
-  },
-
-  {
-    "word": "bride",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "tavern",
-    "type": "location",
-    "genre": "fantasy"
-  },
+    {
+      "word": "boy",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "girl",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "figure",
+      "type": "subject",
+      "genre": "horror"
+    },
   
-  {
-    "word": "bunker",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "runaway",
-    "type": "subject",
-    "genre": "western"
-  },
+    {
+      "word": "figure",
+      "type": "subject",
+      "genre": "scifi"
+    },
     
-  {
-    "word": "runaway",
-    "type": "sub-adj",
-    "genre": "western"
-  },
+    {
+      "word": "shape",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "shape",
+      "type": "subject",
+      "genre": "horror"
+    },
+    
+    {
+      "word": "entity",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "entity",
+      "type": "subject",
+      "genre": "horror"
+    },
       
+    {
+      "word": "form",
+      "type": "subject",
+      "genre": "scifi"
+    },
   
-  {
-    "word": "capsule",
-    "type": "location",
-    "genre": "scifi"
-  },
+    {
+      "word": "form",
+      "type": "subject",
+      "genre": "horror"
+    },
   
-  {
-    "word": "castle",
-    "type": "location",
-    "genre": "fantasy"
-  },
+    {
+      "word": "computer",
+      "type": "subject",
+      "genre": "scifi"
+    },
   
-  {
-    "word": "chateau",
-    "type": "location",
-    "genre": "lit"
-  },
+    {
+      "word": "nomadic",
+      "type": "sub-adj",
+      "genre": "fantasy"
+    },
     
-  {
-    "word": "creepy",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "magical",
-    "type": "loc-adj",
-    "genre": "fantasy"
-  },
-  
-
-  {
-    "word": "sacred",
-    "type": "loc-adj",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "eerie",
-    "type": "loc-adj",
-    "genre": "horror" 
-  },
-
-  {
-    "word": "ghostly",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "deranged",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "smoky",
-    "type": "loc-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "dry",
-    "type": "loc-adj",
-    "genre": "western"
-  },
+    {
+      "word": "cat",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "arid",
-    "type": "loc-adj",
-    "genre": "western"
-  },
+    {
+      "word": "dog",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "unhinged",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "weary",
-    "type": "sub-adj",
-    "genre": "western"
-  },
+    {
+      "word": "guard",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "wolf",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "sparrow",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "hawk",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "rat",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "doe",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "buck",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "butler",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "extraterrestrial",
+      "type": "subject",
+      "genre": "scifi"
+    },
   
-  {
-    "word": "travel-worn",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "martian",
-    "type": "subject",
-    "genre": "scifi"
-  },
+    {
+      "word": "clone",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "pilot",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "extraterrestrial",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "colonist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "engineer",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "fugitive",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "settler",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "chemist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "physicist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "creature",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "being",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "life form",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "organism",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "prisoner",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "technician",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "inspector",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "crew member",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "invader",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "cyborg",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "trooper",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "mainframe",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "navigator",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "orphan",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "alien",
+      "type": "subject",
+      "genre": "scifi"
+    },
+    
+    {
+      "word": "runaway",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "stranger",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "stranger",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "outlaw",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "doctor",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "professor",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "oracle",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "oracle",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "rogue",
+      "type": "subject",
+      "genre": "western"
+    },
+     
+    {
+      "word": "explorer",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "explorer",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "adventurer",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "adventurer",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "wagon",
+      "type": "location",
+      "genre": "western"
+    },
+  
+  
+    {
+      "word": "giant",
+      "type": "subject",
+      "genre": "fantasy"
+    },
       
-  {
-    "word": "astronaut",
-    "type": "subject",
-    "genre": "scifi"
-  },
+    {
+      "word": "clown",
+      "type": "subject",
+      "genre": "horror"
+    },
+      
+    {
+      "word": "graveyard",
+      "type": "location",
+      "genre": "horror"
+    },
   
-  {
-    "word": "dragon",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-      
-  {
-    "word": "gnome",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-      
-  {
-    "word": "elf",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "fairy",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "vengeful",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "dark",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "evil",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "psychic",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "telepathic",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "clairvoyant",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "chrome",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "glowing",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "armored",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "captured",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "imprisioned",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "incarcerated",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "captive",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "armed",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "civilian",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "skilled",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "specialist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "dissident",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "insurgent",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "insurrectionist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "rebel",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "revolutionary",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "radioactive",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "dissenting",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "rebel",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "revolutionary",
-    "type": "sub-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "ambassador",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "emissary",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "envoy",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "diplomat",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "metal",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "radioactive",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "chrome",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "toxic",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "glowing",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "twinkling",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "flickering",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-  {
-    "word": "radiant",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "incandescent",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "luminescent",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "blinking",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "engineered",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "synthetic",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "manufactured",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "chrome",
-    "type": "loc-adj",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "haunted",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-    
-  {
-    "word": "bloody",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "crypt",
+    {
+    "word": "cemetery",
     "type": "location",
     "genre": "horror"
-  },
-
-  {
-    "word": "undead",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  { 
-    "word": "spaceship",
-    "type": "location",
-    "genre": "scifi"
-  },
-      
-  {
-    "word": "colony",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "platform",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "colony",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "hallway",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "research center",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "vortex",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "corridor",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "chambers",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "quarters",
-    "type": "location",
-    "genre": "scifi"
-  },
+    },
   
-  {
-    "word": "vessel",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "compartment",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "dormitory",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "cubicle",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "unit",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "cell",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "examination room",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "enclosure",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "doorway",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "passage",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "greenhouse",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "wormhole",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "portal",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "colony",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "castle",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "evil",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "axeman",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "shadow",
-    "type": "subject",
-    "genre": "horror"
-  },
-    
-  {
-    "word": "vampire",
-    "type": "subject",
-    "genre": "horror"
-  },
-  
-  {
-    "word": "zombie",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "murderer",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cowboy",
-    "type": "subject",
-    "genre": "western"
-  },
-      
-  {
-    "word": "sheriff",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "mysterious",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "dusty",
-    "type": "loc-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "dutiful",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "duty-bound",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "honorable",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "honor-bound",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "jaded",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "crooked",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "broken",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "parched",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "drunken",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "electrician",
+    {
+    "word": "roofer",
     "type": "subject",
     "genre": "lit"
-  },
-
-  {
-    "word": "migrant",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "migrant",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "parched",
-    "type": "loc-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "barmaid",
-    "type": "subject",
-    "genre": "western"
-  },
+    },
   
-  {
-    "word": "mysterious",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
+    {
+    "word": "saloon",
+    "type": "location",
+    "genre": "western"
+    },
+  
+    {
+      "word": "bride",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "tavern",
+      "type": "location",
+      "genre": "fantasy"
+    },
+    
+    {
+      "word": "bunker",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "runaway",
+      "type": "subject",
+      "genre": "western"
+    },
       
-  {
-    "word": "unsettling",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
+    {
+      "word": "runaway",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+        
+    
+    {
+      "word": "capsule",
+      "type": "location",
+      "genre": "scifi"
+    },
+    
+    {
+      "word": "castle",
+      "type": "location",
+      "genre": "fantasy"
+    },
+    
+    {
+      "word": "chateau",
+      "type": "location",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "creepy",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
   
-  {
-    "word": "deserted",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
+    {
+      "word": "magical",
+      "type": "loc-adj",
+      "genre": "fantasy"
+    },
+    
+  
+    {
+      "word": "sacred",
+      "type": "loc-adj",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "eerie",
+      "type": "loc-adj",
+      "genre": "horror" 
+    },
+  
+    {
+      "word": "ghostly",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "deranged",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "smoky",
+      "type": "loc-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "dry",
+      "type": "loc-adj",
+      "genre": "western"
+    },
+      
+    {
+      "word": "arid",
+      "type": "loc-adj",
+      "genre": "western"
+    },
+      
+    {
+      "word": "unhinged",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "weary",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+    
+    {
+      "word": "travel-worn",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "martian",
+      "type": "subject",
+      "genre": "scifi"
+    },
+        
+    {
+      "word": "astronaut",
+      "type": "subject",
+      "genre": "scifi"
+    },
+    
+    {
+      "word": "dragon",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+        
+    {
+      "word": "gnome",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+        
+    {
+      "word": "elf",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+      
+    {
+      "word": "fairy",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "vengeful",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "dark",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "evil",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "psychic",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "telepathic",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "clairvoyant",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "chrome",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "glowing",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "armored",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "captured",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "imprisioned",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "incarcerated",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "captive",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "armed",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "civilian",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "skilled",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "specialist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "dissident",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "insurgent",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "insurrectionist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "rebel",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "revolutionary",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "radioactive",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "dissenting",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "rebel",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "revolutionary",
+      "type": "sub-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "ambassador",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "emissary",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "envoy",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "diplomat",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "metal",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "radioactive",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "chrome",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "toxic",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "glowing",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "twinkling",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "flickering",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+    {
+      "word": "radiant",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "incandescent",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "luminescent",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "blinking",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "engineered",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "synthetic",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "manufactured",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "chrome",
+      "type": "loc-adj",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "haunted",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+      
+    {
+      "word": "bloody",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "crypt",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "undead",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    { 
+      "word": "spaceship",
+      "type": "location",
+      "genre": "scifi"
+    },
+        
+    {
+      "word": "colony",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "platform",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "colony",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "hallway",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "research center",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "vortex",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "corridor",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "chambers",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "quarters",
+      "type": "location",
+      "genre": "scifi"
+    },
+    
+    {
+      "word": "vessel",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "compartment",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "dormitory",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "cubicle",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "unit",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "cell",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "examination room",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "enclosure",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "doorway",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "passage",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "greenhouse",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "wormhole",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "portal",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "colony",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "castle",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "evil",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "axeman",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "shadow",
+      "type": "subject",
+      "genre": "horror"
+    },
+      
+    {
+      "word": "vampire",
+      "type": "subject",
+      "genre": "horror"
+    },
+    
+    {
+      "word": "zombie",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "murderer",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cowboy",
+      "type": "subject",
+      "genre": "western"
+    },
+        
+    {
+      "word": "sheriff",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "mysterious",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "dusty",
+      "type": "loc-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "dutiful",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "duty-bound",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "honorable",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "honor-bound",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "jaded",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "crooked",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "broken",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "parched",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "drunken",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "electrician",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "migrant",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "migrant",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "parched",
+      "type": "loc-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "barmaid",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "mysterious",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+        
+    {
+      "word": "unsettling",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+    
+    {
+      "word": "deserted",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "midwife",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "cashier",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "teacher",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "plumber",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "bartender",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "fugitive",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
     "word": "midwife",
     "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "cashier",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "teacher",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "plumber",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "bartender",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "fugitive",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-  "word": "midwife",
-  "type": "subject",
-  "genre": "fantasy"
-  },
-
-  {
-    "word": "executioner",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "executioner",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "executioner",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "executioner",
-    "type": "subject",
     "genre": "fantasy"
-  },
-
-  {
-    "word": "juror",
-    "type": "subject",
-    "genre": "lit"
-  },  
-
-  {
-  "word": "judge",
-  "type": "subject",
-  "genre": "lit"
-  },
-
-  {
+    },
+  
+    {
+      "word": "executioner",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "executioner",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "executioner",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "executioner",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "juror",
+      "type": "subject",
+      "genre": "lit"
+    },  
+  
+    {
     "word": "judge",
     "type": "subject",
-    "genre": "western"
-  },
-
-  {
-  "word": "commuter",
-  "type": "subject",
-  "genre": "lit"
-  },
+    "genre": "lit"
+    },
+  
+    {
+      "word": "judge",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+    "word": "commuter",
+    "type": "subject",
+    "genre": "lit"
+    },
+    
+    {
+    "word": "negotiator",
+    "type": "subject",
+    "genre": "lit"
+    },
+  
+    {
+      "word": "captain",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "captain",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "lawyer",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "champion",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "hiker",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "pedestrian",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "camper",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "scout",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "scout",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "nomad",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "nomad",
+      "type": "subject",
+      "genre": "western"
+    },
   
   {
-  "word": "negotiator",
-  "type": "subject",
-  "genre": "lit"
-  },
-
-  {
-    "word": "captain",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "captain",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "lawyer",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "champion",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "hiker",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "pedestrian",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "camper",
+    "word": "artist",
     "type": "subject",
     "genre": "lit"
   },
   
-  {
-    "word": "scout",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "scout",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "nomad",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "nomad",
-    "type": "subject",
-    "genre": "western"
-  },
-
-{
-  "word": "artist",
-  "type": "subject",
-  "genre": "lit"
-},
-
-{
-  "word": "carpenter",
-  "type": "subject",
-  "genre": "lit"
-},
-
-{
-    "word": "carpenter",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
   {
     "word": "carpenter",
     "type": "subject",
-    "genre": "western"
-  },
-
-  {
-  "word": "ranch hand",
-  "type": "subject",
-  "genre": "western"
-  },
-
-  {
-    "word": "rancher",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "rider",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "wrangler",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "miner",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "dust-covered",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-    
-  {
-    "word": "tailor",
-    "type": "subject",
     "genre": "lit"
   },
-
+  
   {
-    "word": "tailor",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "tailor",
-    "type": "subject",
-    "genre": "western"
-  },
-        
-  {
-    "word": "drifter",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "drifter",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "drifter",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cursed",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cursed",
-    "type": "loc-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "drifter",
-    "type": "doll",
-    "genre": "horror"
-  },
-
-  {
-    "word": "fool",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "dancer",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-  "word": "jester",
-  "type": "subject",
-  "genre": "fantasy"
-  },
-
-  {
-  "word": "hunter",
-  "type": "subject",
-  "genre": "fantasy"
-  },
-
-  {
-    "word": "hunter",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "hunter",
+      "word": "carpenter",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "carpenter",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+    "word": "ranch hand",
     "type": "subject",
     "genre": "western"
-  },
-
-  {
-    "word": "countess",
-    "type": "subject",
-    "genre": "fantasy"
-  },
+    },
+  
+    {
+      "word": "rancher",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "rider",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "wrangler",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "miner",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "dust-covered",
+      "type": "sub-adj",
+      "genre": "western"
+    },
       
-  {
-  "word": "priest",
-  "type": "subject",
-  "genre": "fantasy"
-  },
-
-  {
-  "word": "priest",
-  "type": "subject",
-  "genre": "lit"
-  },
-
-  {
-    "word": "socialite",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "hangman",
-    "type": "western",
-    "genre": "lit"
-  },
-
-  {
-    "word": "debutante",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-  "word": "writer",
-  "type": "subject",
-  "genre": "lit"
-  },
-    
-  {
-    "word": "fox",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-    
-  {
-  "word": "cook",
-  "type": "subject",
-  "genre": "lit"
-  },
+    {
+      "word": "tailor",
+      "type": "subject",
+      "genre": "lit"
+    },
   
-  {
-  "word": "poet",
-  "type": "subject",
-  "genre": "lit"
-  },
-
-  {
-    "word": "soothsayer",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "alchemist",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "angel",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "kraken",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "unicorn",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "knight",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "bard",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-  "word": "actor",
-  "type": "subject",
-  "genre": "lit"
-  },
-
-  {
-    "word": "researcher",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "investigator",
-    "type": "subject",
-    "genre": "scifi"
-  },
+    {
+      "word": "tailor",
+      "type": "subject",
+      "genre": "fantasy"
+    },
   
-  {
-    "word": "scientist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "scientist",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "duke",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "intern",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "assistant",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "spirit",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "witch",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "phantom",
-    "type": "subject",
-    "genre": "horror"
-  },
-
-  {
-    "word": "leader",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "golfer",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "father",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "widower",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "traveller",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "performer",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "motorist",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "cyclist",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "tourist",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "gardener",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "mother",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "student",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "janitor",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "sculptor",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "charlatan",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "waiter",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "imposter",
-    "type": "subject",
-    "genre": "lit"
-  },
-        
-  {
-    "word": "patient",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "philosopher",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "soldier",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "soldier",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "soldier",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "elder",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "missionary",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "invalid",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "skeptic",
-    "type": "subject",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "librarian",
-    "type": "subject",
-    "genre": "lit"
-  },
-      
-  {
-    "word": "passenger",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "bully",
-    "type": "subject",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "interloper",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "interloper",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "celebrity",
-    "type": "subject",
-    "genre": "lit"
-  },
+    {
+      "word": "tailor",
+      "type": "subject",
+      "genre": "western"
+    },
           
-  {
-    "word": "officer",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "officer",
-    "type": "subject",
-    "genre": "scifi"
-  },
+    {
+      "word": "drifter",
+      "type": "subject",
+      "genre": "western"
+    },
   
-  {
-    "word": "activist",
-    "type": "subject",
-    "genre": "lit"
-  },
-      
-  {
-    "word": "pacifist",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "pacifist",
-    "type": "subject",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "widow",
-    "type": "subject",
-    "genre": "lit"
-  },
-
-  {
-    "word": "widow",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "widow",
+    {
+      "word": "drifter",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "drifter",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cursed",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cursed",
+      "type": "loc-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "drifter",
+      "type": "doll",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "fool",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "dancer",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+    "word": "jester",
     "type": "subject",
     "genre": "fantasy"
-  },
-
-  {
-    "word": "waited",
-    "type": "verb",
-    "genre": "lit"
-  },
+    },
+  
+    {
+    "word": "hunter",
+    "type": "subject",
+    "genre": "fantasy"
+    },
+  
+    {
+      "word": "hunter",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "hunter",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "countess",
+      "type": "subject",
+      "genre": "fantasy"
+    },
         
-  {
-    "word": "watched",
-    "type": "verb",
+    {
+    "word": "priest",
+    "type": "subject",
+    "genre": "fantasy"
+    },
+  
+    {
+    "word": "priest",
+    "type": "subject",
     "genre": "lit"
-  },
-    
-  {
-    "word": "stood",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-   {
-    "word": "sat",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "pined",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "ate",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "slept",
-    "type": "verb",
+    },
+  
+    {
+      "word": "socialite",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "hangman",
+      "type": "western",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "debutante",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+    "word": "writer",
+    "type": "subject",
     "genre": "lit"
     },
       
-  {
-    "word": "lay",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "rested",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "hid",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "paced",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "ran",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "skulked",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "searched",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "scanned",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "crouched",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "sang",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "dreamt",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "wished",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "laughed",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "kneeled",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "read",
-    "type": "verb",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "wrote",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "cried",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "hummed",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "despaired",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "rejoiced",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "smiled",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "whispered",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "yelled",
-    "type": "verb",
-    "genre": "lit"
-  },
+    {
+      "word": "fox",
+      "type": "subject",
+      "genre": "fantasy"
+    },
       
-  {
-    "word": "cackled",
-    "type": "verb",
+    {
+    "word": "cook",
+    "type": "subject",
     "genre": "lit"
-  },
-
-  {
-    "word": "danced",
-    "type": "verb",
+    },
+    
+    {
+    "word": "poet",
+    "type": "subject",
     "genre": "lit"
-  },
+    },
+  
+    {
+      "word": "soothsayer",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "alchemist",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "angel",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "kraken",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "unicorn",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "knight",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "bard",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+    "word": "actor",
+    "type": "subject",
+    "genre": "lit"
+    },
+  
+    {
+      "word": "researcher",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "investigator",
+      "type": "subject",
+      "genre": "scifi"
+    },
+    
+    {
+      "word": "scientist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "scientist",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "duke",
+      "type": "subject",
+      "genre": "fantasy"
+    },
       
-  {
-    "word": "listened",
-    "type": "verb",
-    "genre": "lit"
-  },
+    {
+      "word": "intern",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "schemed",
-    "type": "verb",
-    "genre": "lit"
-  },
+    {
+      "word": "assistant",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "spirit",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "witch",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "phantom",
+      "type": "subject",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "leader",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "golfer",
+      "type": "subject",
+      "genre": "lit"
+    },
     
-  {
-    "word": "planned",
-    "type": "verb",
-    "genre": "lit"
-  },
+    {
+      "word": "father",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "widower",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "traveller",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "performer",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "motorist",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "cyclist",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "tourist",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "gardener",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "mother",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "student",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "janitor",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "sculptor",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "charlatan",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "waiter",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "imposter",
+      "type": "subject",
+      "genre": "lit"
+    },
+          
+    {
+      "word": "patient",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "philosopher",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "soldier",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "soldier",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "soldier",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "elder",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "missionary",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "invalid",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "skeptic",
+      "type": "subject",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "librarian",
+      "type": "subject",
+      "genre": "lit"
+    },
         
-  {
-    "word": "deliberated",
-    "type": "verb",
-    "genre": "lit"
-  },
+    {
+      "word": "passenger",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "bully",
+      "type": "subject",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "interloper",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "interloper",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "celebrity",
+      "type": "subject",
+      "genre": "lit"
+    },
+            
+    {
+      "word": "officer",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "officer",
+      "type": "subject",
+      "genre": "scifi"
+    },
     
-  {
-    "word": "lurked",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "willow",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "willow",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "tree",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "tree",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "oak",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "oak",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "birch",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "birch",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cave",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "cave",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "fairgrounds",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "carnival",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "tunnel",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "basement",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "lab",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
+    {
+      "word": "activist",
+      "type": "subject",
+      "genre": "lit"
+    },
+        
+    {
+      "word": "pacifist",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "pacifist",
+      "type": "subject",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "widow",
+      "type": "subject",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "widow",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "widow",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "waited",
+      "type": "verb",
+      "genre": "none"
+    },
+          
+    {
+      "word": "watched",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "stood",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+     {
+      "word": "sat",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "pined",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "ate",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "slept",
+      "type": "verb",
+      "genre": "none"
+      },
+        
+    {
+      "word": "lay",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "rested",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "hid",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "paced",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "ran",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "skulked",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "searched",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "scanned",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "crouched",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "sang",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "dreamt",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "wished",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "laughed",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "kneeled",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "read",
+      "type": "verb",
+      "genre": "none"
+    },
+    
+    {
+      "word": "wrote",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "cried",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "hummed",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "despaired",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "rejoiced",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "smiled",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "whispered",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "yelled",
+      "type": "verb",
+      "genre": "none"
+    },
+        
+    {
+      "word": "cackled",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "danced",
+      "type": "verb",
+      "genre": "none"
+    },
+        
+    {
+      "word": "listened",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "schemed",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "planned",
+      "type": "verb",
+      "genre": "none"
+    },
+          
+    {
+      "word": "deliberated",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "lurked",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "willow",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "willow",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "tree",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "tree",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "oak",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "oak",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "birch",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "birch",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cave",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "cave",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "fairgrounds",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "carnival",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "tunnel",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "basement",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
       "word": "lab",
       "type": "location",
-      "genre": "scifi"
-  },
-
-  {
-    "word": "struggled",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "stumbled",
-    "type": "verb",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "fell",
-    "type": "verb",
-    "genre": "lit"
-  },
-
-  {
-    "word": "near",
-    "type": "preposition",
-    "genre": "lit"
-  },
+      "genre": "horror"
+    },
   
-  {
-    "word": "in",
-    "type": "preposition",
-    "genre": "lit"
-  },
+    {
+        "word": "lab",
+        "type": "location",
+        "genre": "scifi"
+    },
   
-  {
-    "word": "by",
-    "type": "preposition",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "beside",
-    "type": "preposition",
-    "genre": "lit"
-  },
-
-  {
-    "word": "forest",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "forest",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "swamp",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "swamp",
-    "type": "location",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "ship",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "ship",
-    "type": "location",
-    "genre": "fantast"
-  },
-  
-  {
-    "word": "city",
-    "type": "location",
-    "genre": "lit"
-  },
+    {
+      "word": "struggled",
+      "type": "verb",
+      "genre": "none"
+    },
       
-  {
-  "word": "village",
-  "type": "location",
-  "genre": "lit"
-  },
-
-  {
+    {
+      "word": "stumbled",
+      "type": "verb",
+      "genre": "none"
+    },
+      
+    {
+      "word": "fell",
+      "type": "verb",
+      "genre": "none"
+    },
+  
+    {
+      "word": "near",
+      "type": "preposition",
+      "genre": "none"
+    },
+    
+    {
+      "word": "in",
+      "type": "preposition",
+      "genre": "none"
+    },
+    
+    {
+      "word": "by",
+      "type": "preposition",
+      "genre": "none"
+    },
+      
+    {
+      "word": "beside",
+      "type": "preposition",
+      "genre": "none"
+    },
+  
+    {
+      "word": "forest",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "forest",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "swamp",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "swamp",
+      "type": "location",
+      "genre": "fantasy"
+    },
+      
+    {
+      "word": "ship",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "ship",
+      "type": "location",
+      "genre": "fantast"
+    },
+    
+    {
+      "word": "city",
+      "type": "location",
+      "genre": "lit"
+    },
+        
+    {
     "word": "village",
     "type": "location",
-    "genre": "fantasy"
-  },
-  
-  {
-    "word": "town",
-    "type": "location",
     "genre": "lit"
-  },
-
-  {
-    "word": "town",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "bunker",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "mountain",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "mountain",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "mountain",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "mountain",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "villa",
-    "type": "location",
-    "genre": "lit"
-  },
+    },
   
-  {
-    "word": "office",
-    "type": "location",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "skyscraper",
-    "type": "location",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "bus",
-    "type": "location",
-    "genre": "lit"
-  },
-        
-  {
-    "word": "caravan",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "caravan",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "deserter",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "sun-bleached",
-    "type": "subj-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "sun-burnt",
-    "type": "sub-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "weathered",
-    "type": "subj-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "weathered",
-    "type": "loc-adj",
-    "genre": "western"
-  },
-
-  {
-    "word": "well",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "tracker",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "tracker",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-
-  {
-    "word": "android",
-    "type": "subject",
-    "genre": "scifi"
-  },
-   
-  {
-    "word": "robot",
-    "type": "subject",
-    "genre": "scifi"
-  },  
-
-  {
-    "word": "trapper",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-  "word": "thief",
-  "type": "subject",
-  "genre": "fantasy"
-  },
-
-  {
-    "word": "robber",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-  {
-    "word": "guide",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-    "word": "ranger",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "bandit",
-    "type": "subject",
-    "genre": "western"
-  },
-
- {
-    "word": "recluse",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "recluse",
-    "type": "subject",
-    "genre": "horror"
-  },
-  
-  {
-    "word": "hermit",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "hermit",
-    "type": "subject",
-    "genre": "western"
-  },
-
-  {
-  "word": "wizard",
-  "type": "subject",
-  "genre": "fantasy"
-  },
-
-  {
-    "word": "innkeeper",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "killer",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "healer",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "healer",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-  {
-    "word": "captive",
-    "type": "subject",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "captive",
-    "type": "subject",
-    "genre": "western"
-  },
-  
-  {
-    "word": "malevolent",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "bloodthirsty",
-    "type": "sub-adj",
-    "genre": "horror"
-  },
-
-  {
-    "word": "crazed",
-    "type": "sub-adj",
-    "genre": "horror"
-   },
-
-  {
-    "word": "benevolent",
-    "type": "sub-adj",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "lighthouse",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "lighthouse",
-    "type": "location",
-    "genre": "fantasy"
-  },
+    {
+      "word": "village",
+      "type": "location",
+      "genre": "fantasy"
+    },
     
-  {
-    "word": "shed",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "shed",
-    "type": "location",
-    "genre": "horror"
-  },
+    {
+      "word": "town",
+      "type": "location",
+      "genre": "lit"
+    },
   
-  {
-    "word": "shop",
-    "type": "location",
-    "genre": "lit"
-  },
+    {
+      "word": "town",
+      "type": "location",
+      "genre": "fantasy"
+    },
   
-  {
-    "word": "bar",
-    "type": "location",
-    "genre": "lit"
-  },
+    {
+      "word": "bunker",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "mountain",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "mountain",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "mountain",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "mountain",
+      "type": "location",
+      "genre": "western"
+    },
+  
+    {
+      "word": "villa",
+      "type": "location",
+      "genre": "lit"
+    },
     
-  {
-    "word": "cliff",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "cliff",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cliff",
-    "type": "location",
+    {
+      "word": "office",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "skyscraper",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "bus",
+      "type": "location",
+      "genre": "lit"
+    },
+          
+    {
+      "word": "caravan",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "caravan",
+      "type": "location",
+      "genre": "western"
+    },
+  
+    {
+      "word": "deserter",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+      "word": "sun-bleached",
+      "type": "subj-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "sun-burnt",
+      "type": "sub-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "weathered",
+      "type": "subj-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "weathered",
+      "type": "loc-adj",
+      "genre": "western"
+    },
+  
+    {
+      "word": "well",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "tracker",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "tracker",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+  
+    {
+      "word": "android",
+      "type": "subject",
+      "genre": "scifi"
+    },
+     
+    {
+      "word": "robot",
+      "type": "subject",
+      "genre": "scifi"
+    },  
+  
+    {
+      "word": "trapper",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+    "word": "thief",
+    "type": "subject",
     "genre": "fantasy"
-  },
-
-  {
-    "word": "school",
-    "type": "location",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "house",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "house",
-    "type": "location",
-    "genre": "horror"
-  },
+    },
   
-  {
-    "word": "park",
-    "type": "location",
-    "genre": "lit"
-  },
+    {
+      "word": "robber",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "guide",
+      "type": "subject",
+      "genre": "western"
+    },
   
-  {
-    "word": "hospital",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "hospital",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "hospital",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "station",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "station",
-    "type": "location",
-    "genre": "scifi"
-  },
-
-  {
-    "word": "station",
-    "type": "location",
-    "genre": "western"
-  },
-    
-  {
-    "word": "hall",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "hall",
-    "type": "location",
-    "genre": "western"
-  },
-    
-  {
-    "word": "garden",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "market",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "market",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "market",
-    "type": "location",
-    "genre": "western"
-  },
-    
-  {
-    "word": "maze",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "maze",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "maze",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "maze",
-    "type": "location",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "museum",
-    "type": "location",
-    "genre": "lit"
-  },
-    
-  { 
-    "word": "bookstore",
-    "type": "location",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "train",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "train",
-    "type": "location",
-    "genre": "western"
-  },
+    {
+      "word": "ranger",
+      "type": "subject",
+      "genre": "fantasy"
+    },
   
-  {
-    "word": "desert",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "desert",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "path",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "path",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "path",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "path",
-    "type": "location",
-    "genre": "horror"
-  },
+    {
+      "word": "bandit",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+   {
+      "word": "recluse",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "recluse",
+      "type": "subject",
+      "genre": "horror"
+    },
     
-  {
-    "word": "woods",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "woods",
-    "type": "location",
+    {
+      "word": "hermit",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "hermit",
+      "type": "subject",
+      "genre": "western"
+    },
+  
+    {
+    "word": "wizard",
+    "type": "subject",
     "genre": "fantasy"
-  },
+    },
   
-  {
-    "word": "river",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "river",
-    "type": "location",
-    "genre": "fantasy"
-  },
+    {
+      "word": "innkeeper",
+      "type": "subject",
+      "genre": "fantasy"
+    },
   
-  {
-    "word": "shop",
-    "type": "location",
-    "genre": "lit"
-  },
+    {
+      "word": "killer",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
   
-  {
-    "word": "ocean",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "ocean",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "ocean",
-    "type": "location",
-    "genre": "fantasy"
-  },
+    {
+      "word": "healer",
+      "type": "subject",
+      "genre": "fantasy"
+    },
   
-  {
-  "word": "shack",
-  "type": "location",
-  "genre": "lit"
-  },
-
-  {
+    {
+      "word": "healer",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "captive",
+      "type": "subject",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "captive",
+      "type": "subject",
+      "genre": "western"
+    },
+    
+    {
+      "word": "malevolent",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "bloodthirsty",
+      "type": "sub-adj",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "crazed",
+      "type": "sub-adj",
+      "genre": "horror"
+     },
+  
+    {
+      "word": "benevolent",
+      "type": "sub-adj",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "lighthouse",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "lighthouse",
+      "type": "location",
+      "genre": "fantasy"
+    },
+      
+    {
+      "word": "shed",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "shed",
+      "type": "location",
+      "genre": "horror"
+    },
+    
+    {
+      "word": "shop",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "bar",
+      "type": "location",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "cliff",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "cliff",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cliff",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "school",
+      "type": "location",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "house",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "house",
+      "type": "location",
+      "genre": "horror"
+    },
+    
+    {
+      "word": "park",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "hospital",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "hospital",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "hospital",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "station",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "station",
+      "type": "location",
+      "genre": "scifi"
+    },
+  
+    {
+      "word": "station",
+      "type": "location",
+      "genre": "western"
+    },
+      
+    {
+      "word": "hall",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "hall",
+      "type": "location",
+      "genre": "western"
+    },
+      
+    {
+      "word": "garden",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "market",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "market",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "market",
+      "type": "location",
+      "genre": "western"
+    },
+      
+    {
+      "word": "maze",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "maze",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "maze",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "maze",
+      "type": "location",
+      "genre": "fantasy"
+    },
+      
+    {
+      "word": "museum",
+      "type": "location",
+      "genre": "lit"
+    },
+      
+    { 
+      "word": "bookstore",
+      "type": "location",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "train",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "train",
+      "type": "location",
+      "genre": "western"
+    },
+    
+    {
+      "word": "desert",
+      "type": "location",
+      "genre": "western"
+    },
+  
+    {
+      "word": "desert",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "path",
+      "type": "location",
+      "genre": "western"
+    },
+  
+    {
+      "word": "path",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "path",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "path",
+      "type": "location",
+      "genre": "horror"
+    },
+      
+    {
+      "word": "woods",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "woods",
+      "type": "location",
+      "genre": "fantasy"
+    },
+    
+    {
+      "word": "river",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "river",
+      "type": "location",
+      "genre": "fantasy"
+    },
+    
+    {
+      "word": "shop",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "ocean",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "ocean",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "ocean",
+      "type": "location",
+      "genre": "fantasy"
+    },
+    
+    {
     "word": "shack",
     "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "shack",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cabin",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "cabin",
-    "type": "location",
     "genre": "lit"
-  },
-
-  {
-    "word": "cabin",
-    "type": "location",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "storm",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "storm",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "storm",
-    "type": "location",
-    "genre": "lit"
-  },
-    
-  {
-    "word": "plains",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "plains",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "estate",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "estate",
-    "type": "location",
-    "genre": "horror"
-  },
-    
-  {
-    "word": "farm",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "farm",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "farm",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "barn",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "barn",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "barn",
-    "type": "location",
-    "genre": "fantasy"
-  },
-
-  {
-    "word": "lake",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "lake",
-    "type": "location",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "theater",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "theater",
-    "type": "location",
-    "genre": "horror"
-  },
-
-  {
-    "word": "theater",
-    "type": "location",
-    "genre": "scifi"
-  },
-    
-  {
-    "word": "avenue",
-    "type": "location",
-    "genre": "lit"
-  },
+    },
   
-  {
-    "word": "boulevard",
-    "type": "location",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "apartment",
-    "type": "location",
-    "genre": "lit"
-  },
-  
-  {
-    "word": "townhouse",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "millhouse",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "millhouse",
-    "type": "location",
-    "genre": "western"
-  },
-
-  {
-    "word": "millhouse",
-    "type": "location",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "bakery",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "bakery",
-    "type": "location",
-    "genre": "fantasy"
-  },
-    
-  {
-    "word": "warehouse",
-    "type": "location",
-    "genre": "lit"
-  },
-
-  {
-    "word": "warehouse",
-    "type": "location",
-    "genre": "scifi"
-  },
-    
     {
-      "word": "border",
+      "word": "shack",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "shack",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cabin",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "cabin",
       "type": "location",
       "genre": "lit"
     },
-    
+  
     {
-      "word": "canyon",
+      "word": "cabin",
+      "type": "location",
+      "genre": "fantasy"
+    },
+      
+    {
+      "word": "storm",
+      "type": "location",
+      "genre": "horror"
+    },
+  
+    {
+      "word": "storm",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "storm",
+      "type": "location",
+      "genre": "lit"
+    },
+      
+    {
+      "word": "plains",
       "type": "location",
       "genre": "western"
     },
-
+  
     {
-      "word": "canyon",
+      "word": "plains",
       "type": "location",
       "genre": "fantasy"
     },
-
+  
     {
-      "word": "canyon",
+      "word": "estate",
       "type": "location",
       "genre": "lit"
     },
-    
+  
     {
-      "word": "shore",
-      "type": "location",
-      "genre": "fantasy"
-    },
-
-    {
-      "word": "shore",
-      "type": "location",
-      "genre": "lit"
-    },
-
-    {
-      "word": "port",
-      "type": "location",
-      "genre": "lit"
-    },
-
-    {
-      "word": "port",
-      "type": "location",
-      "genre": "fantasy"
-    },
-
-    {
-      "word": "port",
-      "type": "location",
-      "genre": "scifi"
-    },
-
-    {
-      "word": "dock",
-      "type": "location",
-      "genre": "lit"
-    },
-
-    {
-      "word": "dock",
-      "type": "location",
-      "genre": "fantasy"
-    },
-      
-    {
-      "word": "bridge",
+      "word": "estate",
       "type": "location",
       "genre": "horror"
     },
-
+      
     {
-      "word": "bridge",
+      "word": "farm",
       "type": "location",
-      "genre": "fantasy"
+      "genre": "lit"
     },
-
+  
     {
-      "word": "bridge",
+      "word": "farm",
       "type": "location",
       "genre": "western"
     },
-
+  
     {
-      "word": "bridge",
+      "word": "farm",
       "type": "location",
-      "genre": "horror"
+      "genre": "fantasy"
     },
-      
+  
     {
-      "word": "mansion",
-      "type": "location",
-      "genre": "horror"
-    },
-
-    {
-      "word": "mansion",
-      "type": "location",
-      "genre": "horror"
-    },
-    
-    {
-      "word": "mansion",
+      "word": "barn",
       "type": "location",
       "genre": "lit"
     },
-
+  
     {
-      "word": "manor",
+      "word": "barn",
       "type": "location",
-      "genre": "horror"
+      "genre": "western"
     },
-
+  
     {
-      "word": "manor",
+      "word": "barn",
+      "type": "location",
+      "genre": "fantasy"
+    },
+  
+    {
+      "word": "lake",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "lake",
       "type": "location",
       "genre": "fantasy"
     },
       
     {
-      "word": "plaza",
+      "word": "theater",
       "type": "location",
       "genre": "lit"
     },
-
+  
     {
-      "word": "plaza",
-      "type": "location",
-      "genre": "western"
-    },
-
-    {
-      "word": "square",
-      "type": "location",
-      "genre": "lit"
-    },
-
-    {
-      "word": "pit",
+      "word": "theater",
       "type": "location",
       "genre": "horror"
     },
-      
+  
     {
-      "word": "craft",
+      "word": "theater",
       "type": "location",
       "genre": "scifi"
     },
       
     {
-      "word": "spacecraft",
-      "type": "location",
-      "genre": "scifi"
-    },
-      
-    {
-      "word": "mine",
+      "word": "avenue",
       "type": "location",
       "genre": "lit"
     },
-
+    
     {
-      "word": "mine",
+      "word": "boulevard",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "apartment",
+      "type": "location",
+      "genre": "lit"
+    },
+    
+    {
+      "word": "townhouse",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "millhouse",
+      "type": "location",
+      "genre": "lit"
+    },
+  
+    {
+      "word": "millhouse",
       "type": "location",
       "genre": "western"
-    },    
-      
-    {
-      "word": "workshop",
-      "type": "location",
-      "genre": "lit"
     },
-
+  
     {
-      "word": "workshop",
+      "word": "millhouse",
       "type": "location",
       "genre": "fantasy"
     },
       
     {
-      "word": "restaurant",
+      "word": "bakery",
       "type": "location",
       "genre": "lit"
     },
-
+  
     {
-      "word": "street",
+      "word": "bakery",
+      "type": "location",
+      "genre": "fantasy"
+    },
+      
+    {
+      "word": "warehouse",
       "type": "location",
       "genre": "lit"
+    },
+  
+    {
+      "word": "warehouse",
+      "type": "location",
+      "genre": "scifi"
+    },
+      
+      {
+        "word": "border",
+        "type": "location",
+        "genre": "lit"
       },
       
       {
-      "word": "yard",
-      "type": "location",
-      "genre": "lit"
+        "word": "canyon",
+        "type": "location",
+        "genre": "western"
       },
-      
+  
       {
-      "word": "field",
-      "type": "location",
-      "genre": "lit"
-      },
-      
-      {
-      "word": "beach",
-      "type": "location",
-      "genre": "lit"
-      },
-      
-      {
-      "word": "alley",
-      "type": "location",
-      "genre": "lit"
-      },
-      
-      {
-      "word": "balcony",
-      "type": "location",
-      "genre": "lit"
-      },
-
-      {
-        "word": "balcony",
+        "word": "canyon",
         "type": "location",
         "genre": "fantasy"
       },
-
+  
       {
-        "word": "snow-covered",
-        "type": "loc-adj",
+        "word": "canyon",
+        "type": "location",
         "genre": "lit"
       },
-
+      
       {
-        "word": "snow-covered",
-        "type": "loc-adj",
+        "word": "shore",
+        "type": "location",
+        "genre": "fantasy"
+      },
+  
+      {
+        "word": "shore",
+        "type": "location",
+        "genre": "lit"
+      },
+  
+      {
+        "word": "port",
+        "type": "location",
+        "genre": "lit"
+      },
+  
+      {
+        "word": "port",
+        "type": "location",
+        "genre": "fantasy"
+      },
+  
+      {
+        "word": "port",
+        "type": "location",
+        "genre": "scifi"
+      },
+  
+      {
+        "word": "dock",
+        "type": "location",
+        "genre": "lit"
+      },
+  
+      {
+        "word": "dock",
+        "type": "location",
         "genre": "fantasy"
       },
         
       {
-        "word": "frozen",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "frozen",
-        "type": "loc-adj",
-        "genre": "fantast"
-      },
-        
-      {
-        "word": "striking",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
-      
-      {
-        "word": "solitary",
-        "type": "sub-adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "solitary",
-        "type": "sub-adj",
-        "genre": "western"
-      },
-
-      {
-        "word": "solitary",
-        "type": "sub-adj",
+        "word": "bridge",
+        "type": "location",
         "genre": "horror"
       },
-        
+  
       {
-        "word": "peculiar",
-        "type": "sub-adj",
-        "genre": "lit"
-      },
-      
-      {
-        "word": "bizzare",
-        "type": "adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "warm",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
-        
-      {
-        "word": "eerie",
-        "type": "loc-adj",
-        "genre": "horror" 
-      },
-      
-      {
-        "word": "abnormal",
-        "type": "loc-adj",
-        "genre": "horror"
-      },
-      
-      {
-        "word": "supernatural",
-        "type": "loc-adj",
-        "genre": "horror"
-      },
-    
-      {
-        "word": "holy",
-        "type": "sub-adj",
+        "word": "bridge",
+        "type": "location",
         "genre": "fantasy"
       },
-
+  
       {
-        "word": "hot",
-        "type": "loc-adj",
-        "genre": "lit"
+        "word": "bridge",
+        "type": "location",
+        "genre": "western"
+      },
+  
+      {
+        "word": "bridge",
+        "type": "location",
+        "genre": "horror"
       },
         
       {
-        "word": "serene",
-        "type": "loc-adj",
-        "genre": "lit"
+        "word": "mansion",
+        "type": "location",
+        "genre": "horror"
+      },
+  
+      {
+        "word": "mansion",
+        "type": "location",
+        "genre": "horror"
       },
       
       {
-        "word": "placid",
-        "type": "sub-adj",
+        "word": "mansion",
+        "type": "location",
         "genre": "lit"
       },
-      
+  
       {
-        "word": "cold",
-        "type": "loc-adj",
-        "genre": "lit"
+        "word": "manor",
+        "type": "location",
+        "genre": "horror"
       },
-
+  
       {
-        "word": "bright",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "bright",
-        "type": "loc-adj",
+        "word": "manor",
+        "type": "location",
         "genre": "fantasy"
       },
-
-      {
-        "word": "quiet",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "quiet",
-        "type": "loc-adj",
-        "genre": "western"
-      },
-      
-      {
-        "word": "quiet",
-        "type": "sub-adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "quiet",
-        "type": "sub-adj",
-        "genre": "western"
-      },
-
-      {
-        "word": "large",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
-      
-      {
-        "word": "large",
-        "type": "sub-adj",
-        "genre": "lit"
-      },
-      
-      {
-        "word": "tiny",
-        "type": "loc-adj",
-        "genre": "lit"
-      },
         
       {
-        "word": "small",
-        "type": "loc-adj",
+        "word": "plaza",
+        "type": "location",
         "genre": "lit"
       },
-      
+  
       {
-        "word": "small",
-        "type": "sub-adj",
+        "word": "plaza",
+        "type": "location",
+        "genre": "western"
+      },
+  
+      {
+        "word": "square",
+        "type": "location",
         "genre": "lit"
       },
-          
+  
       {
-        "word": "elegant",
-        "type": "sub-adj",
-        "genre": "lit"
-      },
-
-      {
-        "word": "delightful",
-        "type": "loc-adj",
-        "genre": "lit"
-        },
-        
-        {
-        "word": "dreary",
-        "type": "loc-adj",
+        "word": "pit",
+        "type": "location",
         "genre": "horror"
-        },
+      },
         
-        {
-        "word": "marvelous",
-        "type": "adj",
+      {
+        "word": "craft",
+        "type": "location",
+        "genre": "scifi"
+      },
+        
+      {
+        "word": "spacecraft",
+        "type": "location",
+        "genre": "scifi"
+      },
+        
+      {
+        "word": "mine",
+        "type": "location",
+        "genre": "lit"
+      },
+  
+      {
+        "word": "mine",
+        "type": "location",
+        "genre": "western"
+      },    
+        
+      {
+        "word": "workshop",
+        "type": "location",
+        "genre": "lit"
+      },
+  
+      {
+        "word": "workshop",
+        "type": "location",
+        "genre": "fantasy"
+      },
+        
+      {
+        "word": "restaurant",
+        "type": "location",
+        "genre": "lit"
+      },
+  
+      {
+        "word": "street",
+        "type": "location",
         "genre": "lit"
         },
         
         {
-        "word": "delightful",
-        "type": "sub-adj",
+        "word": "yard",
+        "type": "location",
         "genre": "lit"
         },
         
         {
-        "word": "beautiful",
-        "type": "loc-adj",
+        "word": "field",
+        "type": "location",
         "genre": "lit"
         },
-
+        
         {
-          "word": "unremarkable",
+        "word": "beach",
+        "type": "location",
+        "genre": "lit"
+        },
+        
+        {
+        "word": "alley",
+        "type": "location",
+        "genre": "lit"
+        },
+        
+        {
+        "word": "balcony",
+        "type": "location",
+        "genre": "lit"
+        },
+  
+        {
+          "word": "balcony",
+          "type": "location",
+          "genre": "fantasy"
+        },
+  
+        {
+          "word": "snow-covered",
           "type": "loc-adj",
           "genre": "lit"
-          },
+        },
+  
+        {
+          "word": "snow-covered",
+          "type": "loc-adj",
+          "genre": "fantasy"
+        },
           
-          {
-          "word": "nondescript",
+        {
+          "word": "frozen",
           "type": "loc-adj",
           "genre": "lit"
-          },
+        },
+  
+        {
+          "word": "frozen",
+          "type": "loc-adj",
+          "genre": "fantast"
+        },
           
-          {
-          "word": "unexceptional",
+        {
+          "word": "striking",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "solitary",
           "type": "sub-adj",
           "genre": "lit"
-          },
-
-          {
-            "word": "dangerous",
-            "type": "loc-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "dangerous",
-            "type": "loc-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "peaceful",
-            "type": "loc-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "strong",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "strong",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-          
-          {
-            "word": "confused",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-          
-          {
-            "word": "injured",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "injured",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "injured",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "injured",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "disoriented",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "disoriented",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-          
-          {
-            "word": "wounded",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "wounded",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "wounded",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "sun-baked",
-            "type": "loc-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "dying",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "dying",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "dying",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "distressed",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "distressed",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "distressed",
-            "type": "sub-adj",
-            "genre": "fantasty"
-          },
-            
-          {
-            "word": "egotistical",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "self-important",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-          
-          {
-            "word": "lonely",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "lonely",
-            "type": "sub-adj",
-            "genre": "western"
-          },
- 
-          {
-            "word": "lonely",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
+        },
   
-          {
-            "word": "tormented",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "tormented",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "tormented",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "tormented",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "tormented",
-            "type": "sub-adj",
-            "genre": "horror"
-          },
-
-          {
-            "word": "lively",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "lively",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "lively",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "vivacious",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "vivacious",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
- 
-          {
-            "word": "dejected",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "dejected",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "dejected",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-     
-          {
-            "word": "amused",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "amused",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "amused",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "cruel",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "cruel",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "cruel",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "cruel",
-            "type": "sub-adj",
-            "genre": "horror"
-          },
-          
-          {
-            "word": "kind",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "kind",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "kind",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "kind",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "weak",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "weak",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "scorned",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "scorned",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "scorned",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "scorned",
-            "type": "sub-adj",
-            "genre": "horror"
-          },
- 
-          {
-            "word": "beloved",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-          
-          {
-            "word": "itinerant",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "itinerant",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "itinerant",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "itinerant",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "enraged",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "enraged",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "enraged",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "enraged",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "hard-working",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "hard-working",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "unassuming",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "unassuming",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "unassuming",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "unassuming",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-              
-          {
-            "word": "mild-mannered",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "mild-mannered",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "mild-mannered",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "mild-mannered",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "murderous",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "murderous",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "murderous",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "murderous",
-            "type": "sub-adj",
-            "genre": "horror"
-          },
-          
-          {
-            "word": "naive",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "naive",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "naive",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "confident",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "confident",
-            "type": "sub-adj",
-            "genre": "westen"
-          },
-
-          {
-            "word": "confident",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "daring",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "daring",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "daring",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "overjoyed",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "overjoyed",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "overjoyed",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "overjoyed",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "hapless",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "hapless",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "hapless",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "hapless",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "relieved",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-          
-          {
-            "word": "relieved",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "relieved",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "relieved",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-    
-          {
-            "word": "exhausted",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "exhausted",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "exhausted",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "exhausted",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "distraught",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "distraught",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "distraught",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "distraught",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "frightened",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "frightened",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "frightened",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "frightened",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "blithe",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "easygoing",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "mild-mannered",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "happy-go-lucky",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "carefree",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "carefree",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "carefree",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "passionate",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "passionate",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "passionate",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "passionate",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "good-natured",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "good-natured",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "good-natured",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "good-natured",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-       
-          {
-            "word": "sweet-tempered",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "sweet-tempered",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "amiable",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "amiable",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "amiable",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "outraged",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "outraged",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "charming",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "charming",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-             
-          {
-            "word": "refined",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "refined",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "refined",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "unrefined",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "unrefined",
-            "type": "sub-adj",
-            "genre": "westen"
-          },
-          
-          {
-            "word": "anxious",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "anxious",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "anxious",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "anxious",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "hunted",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "hunted",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-          
-          {
-            "word": "hunted",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "hunted",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-          
-          {
-            "word": "noble",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "noble",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "noble",
-            "type": "sub-adj",
-            "genre": "fanasty"
-          },
-
-          {
-            "word": "noble",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "genteel",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "genteel",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "genteel",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "genteel",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "genteel",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-        
-          {
-            "word": "boorish",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "boorish",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "boorish",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "boorish",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "foolish",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "foolish",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "foolish",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "foolish",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "quick-witted",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "quick-witted",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "quick-witted",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "quick-witted",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "shrewd",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "shrewd",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "shrewd",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "shrewd",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "oafish",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "oafish",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "oafish",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "broken-hearted",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "broken-hearted",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "broken-hearted",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "affable",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "affable",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "disillusioned",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "disillusioned",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "disillusioned",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "disaffected",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "disaffected",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-            
-          {
-            "word": "hot-headed",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "hot-headed",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "reserved",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "reserved",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "reserved",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "reserved",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "reticent",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "tenacious",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "tenacious",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "tenacious",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "tenacious",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-           { 
-            "word": "resourceful",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          { 
-            "word": "resourceful",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          { 
-            "word": "resourceful",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          { 
-            "word": "resourceful",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "diffident",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "diffident",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "diffident",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "bold",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "bold",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "bold",
-            "type": "sub-adj",
-            "genre": "bold"
-          },
-
-          {
-            "word": "lovesick",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "lovesick",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "lovesick",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-            
-          {
-            "word": "kind-hearted",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "kind-hearted",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "kind-hearted",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "gentle",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "gentle",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "gentle",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "delicate",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "delicate",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "smiling",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "smiling",
-            "type": "sub-adj",
-            "genre": "horror"
-          },
-
-          {
-            "word": "smiling",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "smiling",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "smiling",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "desperate",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "desperate",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "desperate",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "desperate",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-          
-          {
-            "word": "delirious",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "delirious",
-            "type": "sub-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "delirious",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "delirious",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "jocular",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-            
-          {
-            "word": "witty",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "witty",
-            "type": "sub-adj",
-            "genre": "western"
-          },
-
-          {
-            "word": "witty",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-            
-          {
-            "word": "jovial",
-            "type": "sub-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "jovial",
-            "type": "sub-adj",
-            "genre": "scifi"
-          },
-
-          {
-            "word": "jovial",
-            "type": "sub-adj",
-            "genre": "western"
-          },
+        {
+          "word": "solitary",
+          "type": "sub-adj",
+          "genre": "western"
+        },
+  
+        {
+          "word": "solitary",
+          "type": "sub-adj",
+          "genre": "horror"
+        },
           
         {
-          "word": "dim",
+          "word": "peculiar",
+          "type": "sub-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "bizzare",
+          "type": "adj",
+          "genre": "lit"
+        },
+  
+        {
+          "word": "warm",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+          
+        {
+          "word": "eerie",
+          "type": "loc-adj",
+          "genre": "horror" 
+        },
+        
+        {
+          "word": "abnormal",
+          "type": "loc-adj",
+          "genre": "horror"
+        },
+        
+        {
+          "word": "supernatural",
+          "type": "loc-adj",
+          "genre": "horror"
+        },
+      
+        {
+          "word": "holy",
+          "type": "sub-adj",
+          "genre": "fantasy"
+        },
+  
+        {
+          "word": "hot",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+          
+        {
+          "word": "serene",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "placid",
+          "type": "sub-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "cold",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+  
+        {
+          "word": "bright",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+  
+        {
+          "word": "bright",
+          "type": "loc-adj",
+          "genre": "fantasy"
+        },
+  
+        {
+          "word": "quiet",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+  
+        {
+          "word": "quiet",
+          "type": "loc-adj",
+          "genre": "western"
+        },
+        
+        {
+          "word": "quiet",
+          "type": "sub-adj",
+          "genre": "lit"
+        },
+  
+        {
+          "word": "quiet",
+          "type": "sub-adj",
+          "genre": "western"
+        },
+  
+        {
+          "word": "large",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "large",
+          "type": "sub-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "tiny",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+          
+        {
+          "word": "small",
+          "type": "loc-adj",
+          "genre": "lit"
+        },
+        
+        {
+          "word": "small",
+          "type": "sub-adj",
+          "genre": "lit"
+        },
+            
+        {
+          "word": "elegant",
+          "type": "sub-adj",
+          "genre": "lit"
+        },
+  
+        {
+          "word": "delightful",
+          "type": "loc-adj",
+          "genre": "lit"
+          },
+          
+          {
+          "word": "dreary",
           "type": "loc-adj",
           "genre": "horror"
           },
           
           {
-          "word": "misty",
+          "word": "marvelous",
+          "type": "adj",
+          "genre": "lit"
+          },
+          
+          {
+          "word": "delightful",
+          "type": "sub-adj",
+          "genre": "lit"
+          },
+          
+          {
+          "word": "beautiful",
           "type": "loc-adj",
           "genre": "lit"
           },
-
+  
           {
-            "word": "misty",
+            "word": "unremarkable",
+            "type": "loc-adj",
+            "genre": "lit"
+            },
+            
+            {
+            "word": "nondescript",
+            "type": "loc-adj",
+            "genre": "lit"
+            },
+            
+            {
+            "word": "unexceptional",
+            "type": "sub-adj",
+            "genre": "lit"
+            },
+  
+            {
+              "word": "dangerous",
+              "type": "loc-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "dangerous",
+              "type": "loc-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "peaceful",
+              "type": "loc-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "strong",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "strong",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+            
+            {
+              "word": "confused",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+            
+            {
+              "word": "injured",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "injured",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "injured",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "injured",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "disoriented",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "disoriented",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+            
+            {
+              "word": "wounded",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "wounded",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "wounded",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "sun-baked",
+              "type": "loc-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "dying",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "dying",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "dying",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "distressed",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "distressed",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "distressed",
+              "type": "sub-adj",
+              "genre": "fantasty"
+            },
+              
+            {
+              "word": "egotistical",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "self-important",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+            
+            {
+              "word": "lonely",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "lonely",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+   
+            {
+              "word": "lonely",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+    
+            {
+              "word": "tormented",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "tormented",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "tormented",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "tormented",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "tormented",
+              "type": "sub-adj",
+              "genre": "horror"
+            },
+  
+            {
+              "word": "lively",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "lively",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "lively",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "vivacious",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "vivacious",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+   
+            {
+              "word": "dejected",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "dejected",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "dejected",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+       
+            {
+              "word": "amused",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "amused",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "amused",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "cruel",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "cruel",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "cruel",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "cruel",
+              "type": "sub-adj",
+              "genre": "horror"
+            },
+            
+            {
+              "word": "kind",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "kind",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "kind",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "kind",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "weak",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "weak",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "scorned",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "scorned",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "scorned",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "scorned",
+              "type": "sub-adj",
+              "genre": "horror"
+            },
+   
+            {
+              "word": "beloved",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+            
+            {
+              "word": "itinerant",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "itinerant",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "itinerant",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "itinerant",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "enraged",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "enraged",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "enraged",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "enraged",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "hard-working",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "hard-working",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "unassuming",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "unassuming",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "unassuming",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "unassuming",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+                
+            {
+              "word": "mild-mannered",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "mild-mannered",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "mild-mannered",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "mild-mannered",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "murderous",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "murderous",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "murderous",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "murderous",
+              "type": "sub-adj",
+              "genre": "horror"
+            },
+            
+            {
+              "word": "naive",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "naive",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "naive",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "confident",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "confident",
+              "type": "sub-adj",
+              "genre": "westen"
+            },
+  
+            {
+              "word": "confident",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "daring",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "daring",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "daring",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "overjoyed",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "overjoyed",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "overjoyed",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "overjoyed",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "hapless",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "hapless",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "hapless",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "hapless",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "relieved",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+            
+            {
+              "word": "relieved",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "relieved",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "relieved",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+      
+            {
+              "word": "exhausted",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "exhausted",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "exhausted",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "exhausted",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "distraught",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "distraught",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "distraught",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "distraught",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "frightened",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "frightened",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "frightened",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "frightened",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "blithe",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "easygoing",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "mild-mannered",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "happy-go-lucky",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "carefree",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "carefree",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "carefree",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "passionate",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "passionate",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "passionate",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "passionate",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "good-natured",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "good-natured",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "good-natured",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "good-natured",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+         
+            {
+              "word": "sweet-tempered",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "sweet-tempered",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "amiable",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "amiable",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "amiable",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "outraged",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "outraged",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "charming",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "charming",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+               
+            {
+              "word": "refined",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "refined",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "refined",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "unrefined",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "unrefined",
+              "type": "sub-adj",
+              "genre": "westen"
+            },
+            
+            {
+              "word": "anxious",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "anxious",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "anxious",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "anxious",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "hunted",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "hunted",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+            
+            {
+              "word": "hunted",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "hunted",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+            
+            {
+              "word": "noble",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "noble",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "noble",
+              "type": "sub-adj",
+              "genre": "fanasty"
+            },
+  
+            {
+              "word": "noble",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "genteel",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "genteel",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "genteel",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "genteel",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "genteel",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+          
+            {
+              "word": "boorish",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "boorish",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "boorish",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "boorish",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "foolish",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "foolish",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "foolish",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "foolish",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "quick-witted",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "quick-witted",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "quick-witted",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "quick-witted",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "shrewd",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "shrewd",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "shrewd",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "shrewd",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "oafish",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "oafish",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "oafish",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "broken-hearted",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "broken-hearted",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "broken-hearted",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "affable",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "affable",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "disillusioned",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "disillusioned",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "disillusioned",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "disaffected",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "disaffected",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+              
+            {
+              "word": "hot-headed",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "hot-headed",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "reserved",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "reserved",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "reserved",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "reserved",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "reticent",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "tenacious",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "tenacious",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "tenacious",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "tenacious",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+             { 
+              "word": "resourceful",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            { 
+              "word": "resourceful",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            { 
+              "word": "resourceful",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            { 
+              "word": "resourceful",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "diffident",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "diffident",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "diffident",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "bold",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "bold",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "bold",
+              "type": "sub-adj",
+              "genre": "bold"
+            },
+  
+            {
+              "word": "lovesick",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "lovesick",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "lovesick",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+              
+            {
+              "word": "kind-hearted",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "kind-hearted",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "kind-hearted",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "gentle",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "gentle",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "gentle",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "delicate",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "delicate",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "smiling",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "smiling",
+              "type": "sub-adj",
+              "genre": "horror"
+            },
+  
+            {
+              "word": "smiling",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "smiling",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "smiling",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "desperate",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "desperate",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "desperate",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "desperate",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+            
+            {
+              "word": "delirious",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "delirious",
+              "type": "sub-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "delirious",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "delirious",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "jocular",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+              
+            {
+              "word": "witty",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "witty",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+  
+            {
+              "word": "witty",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+              
+            {
+              "word": "jovial",
+              "type": "sub-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "jovial",
+              "type": "sub-adj",
+              "genre": "scifi"
+            },
+  
+            {
+              "word": "jovial",
+              "type": "sub-adj",
+              "genre": "western"
+            },
+            
+          {
+            "word": "dim",
             "type": "loc-adj",
             "genre": "horror"
-          },
-
-          {
+            },
+            
+            {
             "word": "misty",
             "type": "loc-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "humid",
-            "type": "loc-adj",
             "genre": "lit"
-          },
-
-          {
-            "word": "humid",
-            "type": "loc-adj",
-            "genre": "fantasy"
-          },
-
-          {
-            "word": "damp",
-            "type": "loc-adj",
-            "genre": "lit"
-          },
-
-          {
-            "word": "crowded",
-            "type": "loc-adj",
-            "genre": "lit"
-          }
-    
-    
-]
-
-}
-    
+            },
+  
+            {
+              "word": "misty",
+              "type": "loc-adj",
+              "genre": "horror"
+            },
+  
+            {
+              "word": "misty",
+              "type": "loc-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "humid",
+              "type": "loc-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "humid",
+              "type": "loc-adj",
+              "genre": "fantasy"
+            },
+  
+            {
+              "word": "damp",
+              "type": "loc-adj",
+              "genre": "lit"
+            },
+  
+            {
+              "word": "crowded",
+              "type": "loc-adj",
+              "genre": "lit"
+            }
+      
+      
+  ]
+  
+  }
+      
+  
+  

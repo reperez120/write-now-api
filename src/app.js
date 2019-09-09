@@ -39,7 +39,7 @@ app.get('/words', function handleGetWords(req,res) {
     if (req.query.genre) {
       response = response.filter(word =>
         word.genre.includes(req.query.genre) ||
-        word.genre.includes('lit')
+        word.genre.includes('none')
       )
     }
 
