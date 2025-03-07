@@ -24,6 +24,7 @@
     "morgan": "^1.9.1"
   },
   "devDependencies": {
+    "@flydotio/dockerfile": "^0.7.8",
     "chai": "^4.2.0",
     "mocha": "^6.2.0",
     "nodemon": "^1.19.2",
